@@ -72,7 +72,7 @@
         <mxCell id="YTlHd1Vyg8An8Amco3qV-28" value="station_code*radius" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="160" y="116.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YTlHd1Vyg8An8Amco3qV-29" value="Station API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YTlHd1Vyg8An8Amco3qV-29" value="Airports API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="278" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YTlHd1Vyg8An8Amco3qV-30" value="FICON History API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
