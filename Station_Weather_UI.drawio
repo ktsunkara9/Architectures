@@ -105,6 +105,9 @@
         <mxCell id="YTlHd1Vyg8An8Amco3qV-40" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
           <mxGeometry x="233" y="295" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YTlHd1Vyg8An8Amco3qV-41" value="&lt;b&gt;Station Weather UI - Field Conditions Flow&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257" y="10" width="255" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
