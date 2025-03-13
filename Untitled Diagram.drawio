@@ -17,13 +17,13 @@
           <mxGeometry x="428.75" y="100" width="63.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ofxtjoh7IaggmlnpS0Dk-5" value="Image Store API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="433.75" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="431.75" y="64" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ofxtjoh7IaggmlnpS0Dk-6" value="Azure Blob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="433" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ofxtjoh7IaggmlnpS0Dk-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket_with_objects;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="659" y="200.75" width="60" height="61.5" as="geometry" />
+          <mxGeometry x="652" y="200.75" width="60" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="Ofxtjoh7IaggmlnpS0Dk-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="109.75" width="50" height="50" as="geometry" />
@@ -60,6 +60,24 @@
             <mxPoint x="620" y="160" as="sourcePoint" />
             <mxPoint x="660" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ofxtjoh7IaggmlnpS0Dk-15" value="WIT, Waves" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="618" y="342" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofxtjoh7IaggmlnpS0Dk-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="340" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ofxtjoh7IaggmlnpS0Dk-17" value="Consumes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofxtjoh7IaggmlnpS0Dk-18" value="Uploads" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofxtjoh7IaggmlnpS0Dk-19" value="Uploads" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="642.8600604652099" y="150.25345874741163" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
