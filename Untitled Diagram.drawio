@@ -11,7 +11,7 @@
           <mxGeometry x="431" y="280" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ofxtjoh7IaggmlnpS0Dk-3" value="IBL Connector Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="330" y="12" width="120" height="30" as="geometry" />
+          <mxGeometry x="370" y="12" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ofxtjoh7IaggmlnpS0Dk-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="428.75" y="100" width="63.25" height="70" as="geometry" />
