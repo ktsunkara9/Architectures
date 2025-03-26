@@ -8,7 +8,7 @@
           <mxGeometry x="640" y="178.5" width="52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_Xqw5v2vedkikQFtgAO-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="136" y="153" width="70.5" height="85.5" as="geometry" />
+          <mxGeometry x="170" y="133" width="70.5" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="e_Xqw5v2vedkikQFtgAO-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="76.5" height="93" as="geometry" />
