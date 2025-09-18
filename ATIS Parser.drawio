@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.3">
   <diagram name="Page-1" id="XJQzdTubCrK1rBcKPcMS">
-    <mxGraphModel dx="778" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,12 @@
         </mxCell>
         <mxCell id="jEZvGeoOks8BfHwgp4Ao-3" value="Airport Reference API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="191" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jEZvGeoOks8BfHwgp4Ao-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="643" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jEZvGeoOks8BfHwgp4Ao-5" value="DLQ is missing which is ideal to make this a good architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="26" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
