@@ -194,10 +194,10 @@
           <mxGeometry x="392" y="191" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jEZvGeoOks8BfHwgp4Ao-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="643" width="53" height="56" as="geometry" />
+          <mxGeometry x="647" y="-10" width="53" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="jEZvGeoOks8BfHwgp4Ao-5" value="DLQ is missing which is ideal to make this a good architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="26" width="60" height="30" as="geometry" />
+        <mxCell id="jEZvGeoOks8BfHwgp4Ao-5" value="DLQ is missing which is ideal to make this a good architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#c81e1e, #ededed);" parent="1" vertex="1">
+          <mxGeometry x="710" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lk0nhtXzT3Qk_5yG5pPB-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="66.75" y="77.5" width="59.25" height="56.5" as="geometry" />
