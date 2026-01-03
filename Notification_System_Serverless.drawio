@@ -181,6 +181,9 @@
         <mxCell id="Uk2bzOnJMYhqHsQ52Hf6-99" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="55" width="46.5" x="60" y="55" as="geometry" />
         </mxCell>
+        <mxCell id="LZPRFjxi1qakA6DfiQBE-1" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket_with_objects;fillColor=#E05243;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="140" y="58" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
