@@ -130,7 +130,7 @@
           <mxGeometry height="30" width="60" x="770" y="304" as="geometry" />
         </mxCell>
         <mxCell id="h6BfVHjCq8Dnww8wHlal-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Notification Service api" vertex="1">
-          <mxGeometry height="30" width="60" x="58" y="349" as="geometry" />
+          <mxGeometry height="30" width="60" x="56" y="349" as="geometry" />
         </mxCell>
         <mxCell id="h6BfVHjCq8Dnww8wHlal-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Validator &amp;amp; Prioritizer Lambda" vertex="1">
           <mxGeometry height="30" width="60" x="238" y="349" as="geometry" />
@@ -220,7 +220,19 @@
           <mxGeometry height="50" width="50" x="91" y="88" as="geometry" />
         </mxCell>
         <mxCell id="h6BfVHjCq8Dnww8wHlal-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bulk Notification UI Interface" vertex="1">
-          <mxGeometry height="30" width="83" x="34" y="151" as="geometry" />
+          <mxGeometry height="30" width="83" x="41" y="151" as="geometry" />
+        </mxCell>
+        <mxCell id="ym7mM0QwjGdsDHUue716-2" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="33.25" x="729" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="ym7mM0QwjGdsDHUue716-3" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="33.25" x="588" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="ym7mM0QwjGdsDHUue716-4" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="33.25" x="448" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="ym7mM0QwjGdsDHUue716-5" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="33.25" x="289" y="426" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
