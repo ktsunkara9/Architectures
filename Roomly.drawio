@@ -98,7 +98,7 @@
           <mxGeometry height="54.900000000000006" width="51.3" x="505" y="483" as="geometry" />
         </mxCell>
         <mxCell id="-PYJIxTGhRdV6UiPa9Tm-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Payments Service" vertex="1">
-          <mxGeometry height="57" width="100" x="50" y="359.5" as="geometry" />
+          <mxGeometry height="57" width="100" x="40" y="359.5" as="geometry" />
         </mxCell>
         <mxCell id="-PYJIxTGhRdV6UiPa9Tm-37" edge="1" parent="1" source="-PYJIxTGhRdV6UiPa9Tm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-PYJIxTGhRdV6UiPa9Tm-36" value="">
           <mxGeometry relative="1" as="geometry" />
