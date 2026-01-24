@@ -130,7 +130,7 @@
         <mxCell id="-PYJIxTGhRdV6UiPa9Tm-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Notification Service" vertex="1">
           <mxGeometry height="57" width="100" x="740" y="359" as="geometry" />
         </mxCell>
-        <mxCell id="-PYJIxTGhRdV6UiPa9Tm-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hadoop" vertex="1">
+        <mxCell id="-PYJIxTGhRdV6UiPa9Tm-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Hadoop" vertex="1">
           <mxGeometry height="30" width="60" x="760" y="90" as="geometry" />
         </mxCell>
       </root>
