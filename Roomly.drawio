@@ -76,7 +76,7 @@
         <mxCell id="-PYJIxTGhRdV6UiPa9Tm-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bookings Service" vertex="1">
           <mxGeometry height="57" width="100" x="200" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="-PYJIxTGhRdV6UiPa9Tm-15" edge="1" parent="1" source="-PYJIxTGhRdV6UiPa9Tm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="-PYJIxTGhRdV6UiPa9Tm-12">
+        <mxCell id="-PYJIxTGhRdV6UiPa9Tm-15" edge="1" parent="1" source="-PYJIxTGhRdV6UiPa9Tm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="-PYJIxTGhRdV6UiPa9Tm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-PYJIxTGhRdV6UiPa9Tm-24" edge="1" parent="1" source="-PYJIxTGhRdV6UiPa9Tm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-PYJIxTGhRdV6UiPa9Tm-9" value="">
