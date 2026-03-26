@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="kPYTg8-RcIxNcR3qy8it">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tcqt9jQLatJCOGZyzJUg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Payment Gateway" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcqt9jQLatJCOGZyzJUg-2" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="33" x="300" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcqt9jQLatJCOGZyzJUg-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Merchant Backend System" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcqt9jQLatJCOGZyzJUg-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Merchant" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcqt9jQLatJCOGZyzJUg-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Payment Processor" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Tcqt9jQLatJCOGZyzJUg-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customers" vertex="1">
+          <mxGeometry height="30" width="60" x="287" y="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
